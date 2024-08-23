@@ -1,0 +1,27 @@
+create table TransacaoBancaria
+(
+IdTransacaoBanco int,
+IdContaBancaria	int,
+Data	datetime,
+DataTransacao	datetime,
+IDComprovante int,
+DataReconciliacao	datetime,
+Moeda	varchar(255),
+ContaContabil	varchar(255),
+Cancelado	int,
+Conciliado	int,
+CodigoFinalidadeBancoCentral	varchar(255),
+ExtratoBancario	varchar(255),
+DataExtratoBancario	datetime,
+MetodoPagamento	varchar(255),
+NumeroCheque	varchar(255),
+TipoTransacaoOrigem	int,
+TextoTransacao	int,
+TipoPagamento	int,
+Valor	decimal(18,4),
+ValorMoedaTransacao	decimal(18,4),
+CodigoSWIFT	varchar(255),
+IBAN	varchar(255),
+IdFornecedor	int,
+IdCliente	int
+)

@@ -1,0 +1,21 @@
+using ERP.Models;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Data.Entity;
+using System.Threading.Tasks;
+
+namespace ERP.DAL
+{
+    public class PagamentoLoteItemDAL : Repository<PagamentoLoteItem>
+    {
+        public List<PagamentoLoteItem> GetByPagamentoLoteId(int IdPagamentoLote)
+        {
+            return (from i in db.PagamentoLoteItem
+                    where i.IdPagamentoLote == IdPagamentoLote
+                    select i).ToList();
+        }
+    }
+}

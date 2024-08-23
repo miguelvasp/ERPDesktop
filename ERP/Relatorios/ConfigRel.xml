@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <pageset width="29.7" height="21" unit="cm" margin-left="1" margin-top="1" margin-right="1" margin-bottom="1" />
+  <header height="90">
+    <TextItem key = "SHOPNAME" left="5" top="6" width="960" height="20" align = "center" font-name = "Arial" font-size = "16" font-bold="1" text = "" />
+    <TextItem key="Title" Left="5" top="30" width="960" height = "20" align = "center" font-name = "Arial" font-size="16" font-bold="1" text="consumer Detail Report" />
+    <textitem key="Admin" left="0" top="60" width="300" height="24" text="" />
+    <textitem key="Date" align="right" left="0" top="60" width="960" height="24" text="" />
+  </header>
+  <dataitem>
+<textitem key="Id" text="" data="Id" width="90" /> 
+  </dataitem>
+  <footer height="40">
+    <textitem key="Count" left="5" top="10" width="400" height="24" text="" />
+    <textitem key="Page" align="right" left="800" top="10" width="160" height="24">"first"
+    </textitem>
+  </footer>
+</configuration>

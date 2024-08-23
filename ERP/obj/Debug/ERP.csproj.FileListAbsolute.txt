@@ -1,0 +1,2080 @@
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\App.config
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\ERP.exe.manifest
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\ERP.application
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\Boleto.Net.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\EntityFramework.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\Guifreaks.Common.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\NFe_Util_2G.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\EntityFramework.xml
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacaoDocumentos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmAjustePreco.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCentroCustoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCodigoIsencaoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmConfGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinha.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContratoComercialCondPgtoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmImpressaoBoleto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraLoteAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVariantesGrupoItemAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmDiasPagamentoCadAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVisualizarImagem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEmpresaConfiguracao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContratoComercial.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContratoComercialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddPedido.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConsultaEstoque.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Faturamento.frmDanfePreview.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Faturamento.frmNFeProcessa.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Vendas.frmPedidoVendaSeparacaoFat.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaDanfe.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasReceberBaixa.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasReceberAberto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasReceberCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasReceber.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasPagar.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasPagarAberto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmChequeTerceiro.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasPagarBaixa.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContasPagarCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Financeiro.frmControlChequeTerceiros.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmNotaFiscalItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmNotaFiscalCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmNotaFiscal.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Fiscal.frmSelecionaRecebimentos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmBuscaProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDiarioBomLinhaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDiarioBomCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDiarioBom.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmOrdemProducaoLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmOrdemProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiro.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmOrdemProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoteiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoteiro.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCalendarioDatas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCalendarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCalendario.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecursoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecurso.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Auxiliares.frmTempoTrabalhoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoCompras.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasViewer.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencial.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejista.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejistaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLancamentoCadItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCadAux.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOP.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOPCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCondPgto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCondPgtoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaContabil.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaContabilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContador.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContadorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConversaoUnidadeAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEmpresa.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEmpresaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFuncionario.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFuncionarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmProdutoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Cadastros.frmTabelas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUsuario.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUsuarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUsuarioPermissao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedor.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPedidoCompras1.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompra.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCotacaoMoedaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMoedaCotacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContato.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEndereco.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCombo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDeveloperTools.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFavoritos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLogin.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTelefone.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTransportadora.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTransportadoraCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRamoAtividade.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRamoAtividadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSearchForm.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmShowErrorMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmShowMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmShowYesNoMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmListaMateriaisLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmListaMateriaisItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmListaMateriaisCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmListaMateriais1.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRelatorioGenerico.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmReportTabelas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoComprasViewer.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizado.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizadoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmAutoridade.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmAutoridadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCalculoComissao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCalculoComissaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCentroCusto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCentroCustoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCFPS.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCFPSCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmChaveMinemax.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmChaveMinemaxCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmChaveReducao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmChaveReducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoEncargos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoEncargosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoJuros.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoJurosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoMultas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoMultasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExterno.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExternoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoServico.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoServicoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoTributacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCodigoTributacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCondicaoFrete.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCondicaoFreteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConfGrupoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCorredor.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCorredorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecial.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDescontoaVista.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDescontoaVistaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDiasPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmDiasPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoCobertura.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoCoberturaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoEstoque.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoEstoqueCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoImpostosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabil.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDesconto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDescontoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmJuridicaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmJuridicaoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLancamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLancamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLimiteImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalizacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmLocalizacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMatrizCFOP.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMatrizCFOPCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMatrizImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMatrizImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMetodoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMetodoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModeloDocumento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModeloDocumentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModoEntrega.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModoEntregaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModulo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmModuloCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfil.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiro.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmNumeroIsencao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmNumeroIsencaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmOperacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmOperacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPerfilProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVenc.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVencCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoMestre.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoMestreCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPrograma.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmProgramaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoyalties.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmRoyaltiesCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSegmentoBancario.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSegmento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSegmentoBancarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSegmentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSubSegmento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmSubSegmentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTempoTrabalho.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTempoTrabalhoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTextoPadrao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTextoPadraoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancariaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoTelefone.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoTelefoneCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoEndereco.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoEnderecoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMoeda.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMoedaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoProdutoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmBancos.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmBase.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCadBanco.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCidade.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmCidadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmClassificacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmClassificacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaBancariaOld.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmContaBancariaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFeriado.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmFeriadoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmMenu.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPais.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPaisCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoDocumento.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTipoDocumentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmTotalDimensoes.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmVariantesGrupoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmVariantesGrupo.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidade.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmGrupoClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCM.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCMCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresCentroCusto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresCentroCustoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.Vendas.frmConfirmaSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPedidoVendaSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPedidoVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPedidoVendasAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.frmPedidoVendasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\RdlCompile.cache
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\RdlCompile.compiled
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.exe.manifest
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.application
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\migue\OneDrive\Sources\ERP2\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\App.config
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.manifest
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.application
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Boleto.Net.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.Common.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\NFe_Util_2G.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.xml
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.pdb
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacaoDocumentos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjustePreco.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCentroCustoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCodigoIsencaoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmConfGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinha.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCondPgtoAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmImpressaoBoleto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraLoteAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVariantesGrupoItemAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmDiasPagamentoCadAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVisualizarImagem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaConfiguracao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercial.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeCompras.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosCompras.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraContabilidade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoComprasAlocaEncargos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraApuracaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddPedido.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoChequeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoCheque.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoqueCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecionaLote.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConsultaEstoque.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoque.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmDanfePreview.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNFeProcessa.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNotaFiscalEnviaEmail.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmPedidoVendaSeparacaoFat.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaDanfe.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLoteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecaoChequeTerceiros.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLotePreparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrenteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrente.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLote.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancariaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberBaixa.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberAberto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceber.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagar.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarAberto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChequeTerceiro.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarBaixa.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmControlChequeTerceiros.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmNotaFiscalItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscal.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Fiscal.frmSelecionaRecebimentos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBuscaProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomLinhaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBom.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmOrdemProducaoLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiro.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiro.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioDatas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendario.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecursoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecurso.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmTempoTrabalhoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepMovimentacaoBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoCompras.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasViewer.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCEST.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCESTCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencial.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejista.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejistaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCadItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCadAux.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOP.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOPCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgtoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabil.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContador.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContadorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConversaoUnidadeAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresa.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionario.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProdutoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmTabelas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuario.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioPermissao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedor.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompras1.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompra.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCotacaoMoedaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCotacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContato.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEndereco.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCombo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDeveloperTools.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFavoritos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLogin.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTelefone.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadora.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadoraCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSearchForm.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowErrorMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowYesNoMessage.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisLinhas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriais1.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRelatorioGenerico.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmReportTabelas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoComprasViewer.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizado.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizadoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCusto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCustoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPS.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPSCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemax.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemaxCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJuros.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJurosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExterno.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExternoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServico.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServicoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFrete.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFreteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredor.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecial.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecialCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVista.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVistaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCobertura.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCoberturaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoque.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoqueCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostosCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabil.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabilCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDesconto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDescontoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOP.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOPCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntrega.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntregaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModulo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModuloCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfil.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiro.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiroCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCliente.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedor.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedorCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVenc.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVencCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestre.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestreCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPrograma.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProgramaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyalties.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyaltiesCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancario.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancarioCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalho.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalhoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadrao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadraoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancaria.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancariaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefone.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefoneCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEndereco.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEnderecoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoeda.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProduto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProdutoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBancos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBase.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadBanco.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaPesq.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriado.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriadoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMenu.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPais.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPaisCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumento.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumentoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTotalDimensoes.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupo.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoClienteCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCM.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCMCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCusto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCustoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetido.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetidoCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaContabilidade.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoTotais.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaAlocaEncargos.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaApuracaoImposto.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmConfirmaSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaSeparacao.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendas.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasAddItem.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasCad.resources
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.cache
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.compiled
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe.manifest
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.application
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\migue\OneDrive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.pdb
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\App.config
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.config
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.manifest
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.application
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.pdb
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Boleto.Net.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.Common.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\JacksonSoft.CustomTabControl.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\NFe_Util_2G.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.xml
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.pdb
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacaoDocumentos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjustePreco.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCentroCustoAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCodigoIsencaoAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmConfGrupoImpostoRetidoItemCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinha.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCondPgtoAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmImpressaoBoleto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraLoteAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVariantesGrupoItemAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmDiasPagamentoCadAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVisualizarImagem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancaria.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaConfiguracao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercial.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeCompras.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosCompras.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraContabilidade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoComprasAlocaEncargos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraApuracaoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddPedido.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoChequeCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoCheque.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoqueCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecionaLote.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConsultaEstoque.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoque.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmDanfePreview.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosNotaFiscal.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNFeProcessa.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNotaFiscalEnviaEmail.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalApuracaoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmPedidoVendaSeparacaoFat.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaDanfe.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLoteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecaoChequeTerceiros.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLotePreparacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrenteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrente.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLote.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancariaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancaria.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberBaixa.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberAberto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceber.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagar.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarAberto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChequeTerceiro.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarBaixa.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmControlChequeTerceiros.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmNotaFiscalItemCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscal.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Fiscal.frmSelecionaRecebimentos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBuscaProduto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomLinhaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBom.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmOrdemProducaoLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiro.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoRecursos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiro.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioDatas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendario.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecursoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecurso.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmTempoTrabalhoItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepMovimentacaoBancaria.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoCompras.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasSeparacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasViewer.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCEST.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCESTCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencial.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencialCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejista.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejistaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCadItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoRetidoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCadAux.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOP.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOPCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCliente.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClienteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgtoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabil.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabilCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContador.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContadorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConversaoUnidadeAddItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresa.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedor.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionario.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionarioCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProduto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProdutoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmTabelas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuario.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioPermissao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedor.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompras1.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasAddItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompra.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCotacaoMoedaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCotacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContato.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEndereco.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCombo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDeveloperTools.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFavoritos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLogin.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTelefone.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadora.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadoraCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividadeCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSearchForm.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowErrorMessage.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowMessage.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowYesNoMessage.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisLinhas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriais1.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRelatorioGenerico.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmReportTabelas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoComprasViewer.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizado.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizadoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridadeCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCusto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCustoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPS.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPSCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemax.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemaxCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetido.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetidoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJuros.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJurosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultasCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExterno.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExternoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServico.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServicoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFrete.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFreteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItemCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredor.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecial.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecialCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVista.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVistaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCliente.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCobertura.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCoberturaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoque.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoqueCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedor.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItemCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItemCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetido.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostosCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabil.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabilCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDesconto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDescontoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOP.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOPCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntrega.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntregaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModulo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModuloCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfil.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiro.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiroCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCliente.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilClienteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedor.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedorCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVenc.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVencCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestre.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestreCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPrograma.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProgramaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendasCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyalties.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyaltiesCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancario.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancarioCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalho.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalhoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadrao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadraoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancaria.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancariaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefone.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefoneCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEndereco.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEnderecoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoeda.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProduto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProdutoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBancos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBase.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadBanco.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidadeCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaPesq.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriado.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriadoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMenu.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPais.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPaisCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumento.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumentoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTotalDimensoes.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupo.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoClienteCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCM.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCMCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCusto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCustoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetido.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetidoCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeVendas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaContabilidade.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoTotais.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaAlocaEncargos.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosVendas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaApuracaoImposto.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmConfirmaSeparacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaSeparacao.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendas.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasAddItem.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasCad.resources
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.cache
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.compiled
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe.manifest
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.application
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.pdb
+D:\Miguel\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemProducao.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemProducao.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Library\System.Windows.Forms.Calendar.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repPlanoProducao.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\InventarioEstoque.rdlc
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\RepBoleto.rdlc
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\rpConsultaEstoque.rdlc
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repPlanoProducao.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\App.config
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.config
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.manifest
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.application
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Boleto.Net.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\FlashControlV71.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.Common.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Impactro.Cobranca.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\log4net.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\MyCustomControls.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\NFe_Util_2G.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\stdole.dll
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.xml
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.pdb
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Impactro.Cobranca.xml
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\log4net.xml
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacaoDocumentos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjustePreco.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCentroCustoAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCodigoIsencaoAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmConfGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinha.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCondPgtoAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmImpressaoBoleto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraLoteAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVariantesGrupoItemAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmDiasPagamentoCadAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVisualizarImagem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancaria.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaConfiguracao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercial.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeCompras.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosCompras.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraContabilidade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoComprasAlocaEncargos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraApuracaoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddPedido.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoChequeCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoCheque.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.CrystalReports.frmCrystalReportViewer.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoqueCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmKardex.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Estoques.frmInventarioEstoqueCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Estoques.frmInventarioPesquisa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecionaLote.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConsultaEstoque.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoque.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmDanfePreview.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Faturamento.frmDevolucao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosNotaFiscal.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNFeProcessa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNotaFiscalEnviaEmail.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalApuracaoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmPedidoVendaSeparacaoFat.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaCertificado.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaDanfe.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmChequeEmpresa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.ChequeEmpresaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBoletoBancario.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmFluxoCaixa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmGeraCheque.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBoletoBancarioCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmImprimeBoleto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLotePreparacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLoteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLote.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLoteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecaoChequeTerceiros.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLotePreparacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrenteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrente.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLote.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancariaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancaria.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberBaixa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberAberto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceber.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagar.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarAberto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChequeTerceiro.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarBaixa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmControlChequeTerceiros.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmNotaFiscalItemCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscal.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Fiscal.frmSelecionaRecebimentos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmSelecionaContaBoleto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBuscaProduto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmAlteraProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmControleProducaoDiaria.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmGeraOP.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmImportarPlano.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducaoEtapa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDemandaProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomLinhaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBom.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiro.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmPlanoProducaoControleQualidade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmPlanoProducaoMaterial.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoRecursos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiro.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioDatas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendario.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecursoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecurso.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmTempoTrabalhoItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepMovimentacaoBancaria.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoCompras.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasSeparacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasViewer.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.VisualizadorGenerico.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCEST.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCESTCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencial.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencialCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejista.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejistaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCadItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoRetidoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCadAux.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOP.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOPCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCliente.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClienteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgtoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabil.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabilCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContador.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContadorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConversaoUnidadeAddItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresa.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedor.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionario.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionarioCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProduto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProdutoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmTabelas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuario.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioPermissao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedor.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompras1.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasAddItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompra.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCotacaoMoedaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCotacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContato.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEndereco.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCombo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDeveloperTools.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFavoritos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLogin.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTelefone.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadora.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadoraCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividadeCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSearchForm.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowErrorMessage.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowMessage.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowYesNoMessage.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisLinhas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriais1.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRelatorioGenerico.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmReportTabelas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoComprasViewer.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizado.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizadoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridadeCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCusto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCustoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPS.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPSCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemax.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemaxCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetido.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetidoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJuros.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJurosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultasCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExterno.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExternoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServico.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServicoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFrete.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFreteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItemCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredor.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecial.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecialCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVista.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVistaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCliente.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCobertura.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCoberturaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoque.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoqueCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedor.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItemCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItemCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetido.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostosCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabil.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabilCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDesconto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDescontoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOP.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOPCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntrega.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntregaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModulo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModuloCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfil.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiro.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiroCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCliente.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilClienteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedor.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedorCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVenc.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVencCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestre.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestreCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPrograma.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProgramaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendasCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyalties.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyaltiesCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancario.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancarioCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalho.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalhoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadrao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadraoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancaria.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancariaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefone.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefoneCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEndereco.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEnderecoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoeda.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProduto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProdutoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBancos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBase.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadBanco.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidadeCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaPesq.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriado.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriadoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMenu.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPais.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPaisCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumento.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumentoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTotalDimensoes.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupo.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoClienteCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCM.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCMCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCusto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCustoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetido.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetidoCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeVendas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaContabilidade.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoTotais.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaAlocaEncargos.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosVendas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaApuracaoImposto.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmConfirmaSeparacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaSeparacao.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendas.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasAddItem.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasCad.resources
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.cache
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.compiled
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe.manifest
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.application
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repComissaoVendedores.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasPagarList.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasReceberList.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repKardex.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repNotaFiscalLista.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemCompra.rpt
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repComissaoVendedores.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasPagarList.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasReceberList.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repKardex.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repNotaFiscalLista.cs
+C:\Users\migue\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemCompra.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Library\System.Windows.Forms.Calendar.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repComissaoVendedores.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasPagarList.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasReceberList.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repKardex.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repNotaFiscalLista.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemCompra.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemProducao.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repPlanoProducao.rpt
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\InventarioEstoque.rdlc
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\RepBoleto.rdlc
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Relatorios\rpConsultaEstoque.rdlc
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repComissaoVendedores.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasPagarList.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repContasReceberList.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repKardex.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repNotaFiscalLista.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemCompra.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repOrdemProducao.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalReports\repPlanoProducao.cs
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\App.config
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.config
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe.manifest
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.application
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.exe
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ERP.pdb
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Boleto.Net.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.Shared.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\FlashControlV71.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.Common.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Guifreaks.NavigationBar.XmlSerializers.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Impactro.Cobranca.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\JacksonSoft.CustomTabControl.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\log4net.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\MyCustomControls.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\NFe_Util_2G.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Calendar.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\ShockwaveFlashObjects.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\stdole.dll
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.xml
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\GenCode128.pdb
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\Impactro.Cobranca.xml
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\bin\Debug\log4net.xml
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Aprovacao.frmAprovacaoDocumentos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjustePreco.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCentroCustoAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCodigoIsencaoAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmConfGrupoImpostoRetidoItemCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinha.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCondPgtoAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmImpressaoBoleto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraLoteAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVariantesGrupoItemAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmDiasPagamentoCadAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmVisualizarImagem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancaria.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaConfiguracao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercial.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContratoComercialCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeCompras.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosCompras.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraContabilidade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoComprasAlocaEncargos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompraApuracaoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraAddPedido.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoChequeCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfiguracaoCheque.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.CrystalReports.frmCrystalReportViewer.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoqueCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmKardex.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Estoques.frmInventarioEstoqueCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Estoques.frmInventarioPesquisa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecionaLote.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConsultaEstoque.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAjusteEstoque.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmDanfePreview.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Faturamento.frmDevolucao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosNotaFiscal.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Faturamento.frmMinutaTransporte.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNFeProcessa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmNotaFiscalEnviaEmail.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalApuracaoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmPedidoVendaSeparacaoFat.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaCertificado.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Faturamento.frmSelecionaDanfe.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmChequeEmpresa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.ChequeEmpresaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBoletoBancario.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmFluxoCaixa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmGeraCheque.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBoletoBancarioCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmImprimeBoleto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLotePreparacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLoteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoLote.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLoteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSelecaoChequeTerceiros.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLotePreparacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrenteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmComissaoVendedorContaCorrente.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPagamentoLote.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancariaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoBancaria.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberBaixa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberAberto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceberCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasReceber.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagar.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarAberto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChequeTerceiro.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarBaixa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContasPagarCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmControlChequeTerceiros.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmNotaFiscalItemCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscalCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNotaFiscal.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Fiscal.frmSelecionaRecebimentos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Financeiro.frmSelecionaContaBoleto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBuscaProduto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmAlteraProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmControleProducaoDiaria.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmGeraOP.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmImportarPlano.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOrdemProducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducaoEtapa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDemandaProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomLinhaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBomCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiarioBom.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadastrodiarioProducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiro.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRoteiroCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmPlanoProducaoControleQualidade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.Produção.frmPlanoProducaoMaterial.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoRecursos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacaoLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroOperacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiroCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoteiro.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRecursosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCapacidadeRecursosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioDatas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendarioCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmCalendarioDataLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalendario.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecursoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecurso.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Auxiliares.frmTempoTrabalhoItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.ReportsTool.frmAddFiltro.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.ReportsTool.frmAddReport.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Forms.ReportsTool.frmReports.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepMovimentacaoBancaria.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoCompras.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasSeparacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoVendasViewer.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.VisualizadorGenerico.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCEST.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCESTCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoTransacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMovimentacaoAtivo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEncargos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencial.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaPlanoReferencialCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejista.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoDescontoVarejistaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCadItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoRetidoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCadAux.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOP.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmCFOPCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCliente.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClienteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondPgtoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabil.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaContabilCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContador.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContadorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConversaoUnidadeAddItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresa.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEmpresaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedor.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFornecedorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionario.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFuncionarioCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProduto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProdutoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmTabelas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuario.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUsuarioPermissao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedor.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Cadastros.frmVendedorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoCompras1.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasAddItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Compras.frmPedidoComprasCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompra.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRecebimentoCompraCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCotacaoMoedaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCotacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContato.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEndereco.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCombo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDeveloperTools.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFavoritos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLogin.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTelefone.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadora.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTransportadoraCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRamoAtividadeCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSearchForm.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowErrorMessage.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowMessage.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmShowYesNoMessage.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisLinhas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriaisCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaMateriais1.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRelatorioGenerico.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmReportTabelas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Relatorios.frmRepPedidoComprasViewer.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoFaturamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizado.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAtivoImobilizadoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmAutoridadeCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCalculoComissaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCusto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCentroCustoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPS.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCFPSCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemax.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveMinemaxCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmChaveReducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoEncargosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetido.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoImpostoRetidoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJuros.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoJurosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoMultasCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExterno.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoProdutoExternoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServico.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoServicoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCodigoTributacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFrete.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCondicaoFreteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmConfGrupoImpostoItemCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredor.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCorredorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecial.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDepreciacaoEspecialCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVista.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDescontoaVistaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmDiasPagamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmEspecificacaoPagamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoArmazenamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoAtivoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCliente.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCobertura.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoCoberturaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoque.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoEstoqueCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedor.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoFornecedorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoItemCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItemCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetido.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostoRetidoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoImpostosCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabil.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoLancamentoContabilCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDesconto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoPrecoDescontoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoRastreamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmJuridicaoImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoAtivoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLancamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLimiteImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoAtivoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmLocalizacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOP.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizCFOPCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMatrizImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoDepreciacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMetodoPagamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModeloDocumentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntrega.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModoEntregaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModulo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmModuloCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfil.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiro.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMotivoFinanceiroCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmNumeroIsencaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmOperacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilCliente.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilClienteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilDepreciacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedor.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilFornecedorCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPerfilProducaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVenc.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPeriodoLiquidacaoImpostoVencCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestre.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoMestreCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPagamentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPlanoPrevisaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPrograma.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmProgramaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRepresentanteVendasCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyalties.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmRoyaltiesCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancario.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoBancarioCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSegmentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmSubSegmentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoDepreciacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalho.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTempoTrabalhoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadrao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTextoPadraoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancaria.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoOperacaoBancariaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefone.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoTelefoneCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEndereco.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoEnderecoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoeda.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMoedaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProduto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoProdutoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBancos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmBase.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCadBanco.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmCidadeCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmClassificacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaPesq.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmContaBancariaCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriado.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmFeriadoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmMenu.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPais.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPaisCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumento.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTipoDocumentoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmTotalDimensoes.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmVariantesGrupo.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Properties.Resources.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmGrupoClienteCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCM.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmUnidadeFederacaoNCMCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCusto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresCentroCustoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetido.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmValoresImpostoRetidoCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaContabilidadeVendas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaContabilidade.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoTotais.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaAlocaEncargos.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmListaImpostosVendas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaApuracaoImposto.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.Vendas.frmConfirmaSeparacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendaSeparacao.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendas.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasAddItem.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.frmPedidoVendasCad.resources
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.Cache
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.cache
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\RdlCompile.compiled
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe.manifest
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.application
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.exe
+D:\Google Drive\Sources\ERP MGA\ERP\ERP\obj\Debug\ERP.pdb

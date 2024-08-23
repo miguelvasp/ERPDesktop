@@ -1,0 +1,142 @@
+/* To prevent any potential data loss issues, you should review this script in detail before running it outside the context of the database designer.*/
+BEGIN TRANSACTION
+SET QUOTED_IDENTIFIER ON
+SET ARITHABORT ON
+SET NUMERIC_ROUNDABORT OFF
+SET CONCAT_NULL_YIELDS_NULL ON
+SET ANSI_NULLS ON
+SET ANSI_PADDING ON
+SET ANSI_WARNINGS ON
+COMMIT
+BEGIN TRANSACTION
+GO
+
+Update Cidade set IdPais = 1 Where IdPais is null
+GO
+
+ALTER TABLE dbo.Cidade
+	DROP CONSTRAINT FK_Cidade_UnidadeFederacao
+GO
+ALTER TABLE dbo.UnidadeFederacao SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
+BEGIN TRANSACTION
+GO
+CREATE TABLE dbo.Tmp_Cidade
+	(
+	IdCidade int NOT NULL IDENTITY (1, 1),
+	Nome nvarchar(200) NOT NULL,
+	IBGE int NOT NULL,
+	IdUF int NOT NULL,
+	IdPais int NOT NULL
+	)  ON [PRIMARY]
+GO
+ALTER TABLE dbo.Tmp_Cidade SET (LOCK_ESCALATION = TABLE)
+GO
+SET IDENTITY_INSERT dbo.Tmp_Cidade ON
+GO
+IF EXISTS(SELECT * FROM dbo.Cidade)
+	 EXEC('INSERT INTO dbo.Tmp_Cidade (IdCidade, Nome, IBGE, IdUF, IdPais)
+		SELECT IdCidade, Nome, IBGE, IdUF, IdPais FROM dbo.Cidade WITH (HOLDLOCK TABLOCKX)')
+GO
+SET IDENTITY_INSERT dbo.Tmp_Cidade OFF
+GO
+ALTER TABLE dbo.Endereco
+	DROP CONSTRAINT FK_Endereco_Cidade
+GO
+ALTER TABLE dbo.CodigoServico
+	DROP CONSTRAINT FK_CodigoServico_Cidade
+GO
+ALTER TABLE dbo.LocalizacaoAtivo
+	DROP CONSTRAINT FK_LocalizacaoAtivo_Cidade
+GO
+ALTER TABLE dbo.NotaFiscal
+	DROP CONSTRAINT FK_NotaFiscal_Cidade
+GO
+DROP TABLE dbo.Cidade
+GO
+EXECUTE sp_rename N'dbo.Tmp_Cidade', N'Cidade', 'OBJECT' 
+GO
+ALTER TABLE dbo.Cidade ADD CONSTRAINT
+	PK_Cidade PRIMARY KEY CLUSTERED 
+	(
+	IdCidade
+	) WITH( STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+
+GO
+ALTER TABLE dbo.Cidade ADD CONSTRAINT
+	FK_Cidade_UnidadeFederacao FOREIGN KEY
+	(
+	IdUF
+	) REFERENCES dbo.UnidadeFederacao
+	(
+	IdUF
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+COMMIT
+BEGIN TRANSACTION
+GO
+ALTER TABLE dbo.NotaFiscal ADD CONSTRAINT
+	FK_NotaFiscal_Cidade FOREIGN KEY
+	(
+	IdCidade
+	) REFERENCES dbo.Cidade
+	(
+	IdCidade
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+ALTER TABLE dbo.NotaFiscal SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
+BEGIN TRANSACTION
+GO
+ALTER TABLE dbo.LocalizacaoAtivo ADD CONSTRAINT
+	FK_LocalizacaoAtivo_Cidade FOREIGN KEY
+	(
+	IdCidade
+	) REFERENCES dbo.Cidade
+	(
+	IdCidade
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+ALTER TABLE dbo.LocalizacaoAtivo SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
+BEGIN TRANSACTION
+GO
+ALTER TABLE dbo.CodigoServico ADD CONSTRAINT
+	FK_CodigoServico_Cidade FOREIGN KEY
+	(
+	IdCidade
+	) REFERENCES dbo.Cidade
+	(
+	IdCidade
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+ALTER TABLE dbo.CodigoServico SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
+BEGIN TRANSACTION
+GO
+ALTER TABLE dbo.Endereco ADD CONSTRAINT
+	FK_Endereco_Cidade FOREIGN KEY
+	(
+	IdCidade
+	) REFERENCES dbo.Cidade
+	(
+	IdCidade
+	) ON UPDATE  NO ACTION 
+	 ON DELETE  NO ACTION 
+	
+GO
+ALTER TABLE dbo.Endereco SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
